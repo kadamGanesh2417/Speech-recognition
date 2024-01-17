@@ -223,8 +223,8 @@ if __name__ == "__main__":
 
 
         elif "leave" in query:
-            speak("i am leaving sir...")
-            speak("we will meet soon")
+            speak("Vritual assistant Termited")
+            print("Assistant Program Termited..")
             
             exit()
 
